@@ -1,0 +1,11 @@
+pandas
+numpy
+phik
+scikit-learn
+lightgbm 
+xgboost
+joblib
+json
+fastapi
+uvicorn
+python-multipart
