@@ -8,11 +8,11 @@
 Workshop-2/  
 │  
 ├── data/  
-│   └── apparel_messages.csv
-│   └── apparel-purchases.csv
-│   └── apparel-target_binary.csv
-│   └── full_campaign_daily_event.csv
-│   └── full_campaign_daily_event_channel.csv
+│   └── apparel_messages.csv  
+│   └── apparel-purchases.csv  
+│   └── apparel-target_binary.csv  
+│   └── full_campaign_daily_event.csv  
+│   └── full_campaign_daily_event_channel.csv  
 │  
 ├── requirements.txt (сведения о необходимых библиотеках)    
 ├── research.ipynb (тетрадка с исследованием)  
