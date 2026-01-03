@@ -1,11 +1,9 @@
 pandas
 numpy
-phik
+ast
+matplotlib
+seaborn
 scikit-learn
 lightgbm 
 xgboost
-joblib
-json
-fastapi
-uvicorn
-python-multipart
+catboost
